@@ -21,3 +21,19 @@ background-color: rgb(211, 175, 245);
 .nav-link{
     font-size: larger;
 }
+h3{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+section p{
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 200px;
+}
+.p1{
+    margin-bottom: 30px;
+}
+#flex2{
+    flex-wrap: wrap;
+    background-color: rgb(204, 180, 227);
+}
