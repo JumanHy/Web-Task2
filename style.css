@@ -1,0 +1,23 @@
+*{
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.main_a{
+    text-decoration: none;
+    text-shadow: 1px 1px 2px pink;
+    color: black;
+    font-weight: 600;
+}
+.d-flex{
+background-color: rgb(211, 175, 245);
+}
+.navbar-nav{
+    margin-left: 330px;
+}
+.nav-item{
+    margin-right: 50px;
+}
+.nav-link{
+    font-size: larger;
+}
