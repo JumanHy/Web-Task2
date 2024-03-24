@@ -37,3 +37,6 @@ section p{
     flex-wrap: wrap;
     background-color: rgb(204, 180, 227);
 }
+footer{
+    background-color: rgb(155, 154, 156);
+}
